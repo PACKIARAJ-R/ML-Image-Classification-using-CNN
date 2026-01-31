@@ -16,10 +16,9 @@ The model is trained to classify images into different categories using deep lea
 - Images_Classification_using_CNN.ipynb – Training and evaluation notebook
 - README.md – Project documentation
 
-## 🚀 How to Run
-1. Clone the repository  
-2. Install dependencies  
-3. Run the Jupyter notebook  
+## 🚀 How to Run  
+1. Install dependencies - requirements.txt
+2. Run the notebook  
 
 ## 📊 Results
 - Model accuracy achieved during training
